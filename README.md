@@ -42,4 +42,5 @@ Refer:
 
 [Anuken/Mindustry: The automation tower defense RTS (github.com)](https://github.com/Anuken/Mindustry)
 
-[frankbaele/mindustry: Mindustry server docker (github.com)](
+[frankbaele/mindustry: Mindustry server docker (github.com)](https://github.com/frankbaele/mindustry)
+
