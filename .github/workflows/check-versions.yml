@@ -11,7 +11,7 @@ jobs:
           token: ${{ secrets.REPO_SCOPED_TOKEN }}
       - name: Fetch release version
         run: |
-          curl -sL https://api.github.com/repos/anuke/mindustry/releases/latest | \
+          curl -sL https://api.github.com/repos/anuken/mindustry/releases/latest | \
           jq -r ".tag_name" > server-release-versions
       - name: Check for modified files
         id: git-check
