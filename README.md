@@ -14,7 +14,7 @@ Run with docker-compose:
 ---
 services:
   mindustry:
-    image: ricky9w/mindustry
+    image: ricky9w/mindustry-server
     
     # enable tty and stdin to make `docker attach` work
     tty: true
